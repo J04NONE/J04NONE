@@ -1,4 +1,4 @@
-### 🌟 ¡Hola! Soy [Tu Nombre] 🌟
+### 🌟 ¡Hola! Soy Michael 🌟
 
 👋 Bienvenido a mi perfil de GitHub. Aquí encontrarás una combinación de aprendizaje, proyectos y exploraciones en el mundo de la programación y el desarrollo de software.
 
