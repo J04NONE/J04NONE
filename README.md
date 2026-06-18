@@ -1,63 +1,72 @@
-### 🌟 ¡Hola! Soy Michael 🌟
+### Hola, soy Joan 👋
 
-👋 Bienvenido a mi perfil de GitHub. Aquí encontrarás una combinación de aprendizaje, proyectos y exploraciones en el mundo de la programación y el desarrollo de software.
+Estoy empezando en serio en el desarrollo de software, y me tocó hacerlo en un momento raro: justo cuando las herramientas ya escriben buena parte del código solas. Por eso me importa entender lo que construyo, no solo aceptar lo que la IA me sugiere.
 
----
+Vengo del lado de redes y datos, y ahora estudio Ingeniería de Software en Bogotá. Me muevo entre el desarrollo backend, las APIs y el análisis de datos, y busco mi primer rol estable en análisis de datos junior o soporte/operaciones de IT.
 
-### 💻 **Sobre mí**
-
-- 🎓 **Estudiante de Ingeniería de Software**, siempre en busca de nuevos conocimientos y desafíos tecnológicos.  
-- 📍 Resido en Bogotá, donde desarrollo mis proyectos y habilidades.  
-- 🌱 Actualmente, estoy aprendiendo y trabajando con:
-  - **Frontend**: HTML, CSS, JavaScript y explorando React.  
-  - **Backend**: Mejorando la lógica de programación con C++ (estructuras secuenciales, selectivas y cíclicas de control de flujo).  
-  - **Herramientas**: Uso de App Inventor como introducción a la ingeniería, y Python básico para análisis de datos complejos.  
-- 🚀 Me apasiona crear soluciones optimizadas y funcionales, como el diseño de un sitio web para un estudio musical.  
+- 🎓 Ingeniería de Software (Universidad Antonio Nariño) · Tecnólogo en Redes de Datos (SENA)
+- 📍 Bogotá, Colombia
+- 💼 Buscando oportunidades en análisis de datos junior o soporte/operaciones de IT
+- 🌱 Ahora mismo le estoy metiendo horas a TypeScript, SQL y Django
 
 ---
 
-### 🔧 **Habilidades Técnicas**
+### Stack
 
-- **Lenguajes**:  
-  - C++ (estructuras básicas, control de flujo y ciclos).  
-  - HTML y CSS (centrado en diseño modular y optimización).  
-- **Herramientas y tecnologías**:  
-  - App Inventor: Desarrollo de proyectos creativos, como conversores de sistemas numéricos.  
-  - Python básico: Análisis de datasets complejos que no pueden procesarse con herramientas convencionales como Excel.  
-  - Visual Studio Code & Anaconda: Configuración y pruebas de proyectos.  
-  - Word y Excel en español: Creación de índices, tablas y gráficos detallados.  
+**Lenguajes**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 **Proyectos en curso**
+**Backend**
 
-1. **Página web de Changua Records**:  
-   Desarrollo de un sitio web interactivo para un estudio musical.  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-2. **Conversor de sistemas numéricos**:  
-   Aplicación en App Inventor que permite convertir números entre binario, octal, decimal y hexadecimal.  
+**Frontend**
 
-3. **Exploración de React**:  
-   Aunque aún no he implementado funcionalidades interactivas con React, estoy aprendiendo conceptos clave para comprender el DOM y mejorar mis habilidades en el desarrollo frontend.  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+**Bases de datos & datos**
 
-### 🌍 **Impacto social**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 🌱 Me interesa trabajar en proyectos de impacto social, utilizando la tecnología para apoyar a comunidades vulnerables.  
-- 🌿 Promuevo la conservación de recursos naturales y busco inspirar a otros a participar en iniciativas sostenibles.  
+**Entornos**
 
----
-
-### 🤔 **¿Por qué seguirme?**
-
-Si compartes interés en colaborar, aprender o explorar proyectos que combinen lógica de programación, diseño web o impacto social a través de la tecnología, ¡este es el lugar adecuado! 💡
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-### 📝 **Contacto**
+### Proyectos
 
-- 📧 **Email**: jmurillo820@uan.edu.co 
-- 🌐 **LinkedIn**: www.linkedin.com/in/joan-murillo-4abb1029a
+**[Nomara](https://github.com/J04NONE/nomara)** — API REST en TypeScript y Express: un motor de cumplimiento que liquida nómina electrónica para pymes colombianas. Segmenta turnos rotativos según la normativa laboral (Ley 2466 y 2101), calcula recargos nocturnos y dominicales, y está organizado por capas con su colección de Postman y deploy en Railway. Es lo más completo que he hecho hasta ahora.
 
-¡Gracias por visitar mi perfil y acompañarme en mi viaje por la tecnología! 🚀  
+**[Alerta Temprana 360](https://github.com/J04NONE/alerta-temprana-360)** — Sistema de soporte a decisiones para detectar a tiempo señales de riesgo estudiantil. Backend en Django sobre PostgreSQL.
+
+**[Joyería El Dorado](https://github.com/J04NONE/joyeria-el-dorado-frontend)** — Frontend del sistema de ventas e inventario de una joyería (HTML, CSS y JavaScript).
+
+**[Proyecto Cibercafé en C++](https://github.com/J04NONE/proyecto-programacion-cpp)** — Gestión de un cibercafé. Aquí es donde aprendí a pensar en estructuras de control y lógica desde cero.
+
+---
+
+### Fuera del código
+
+La música es lo otro que me mueve, y por ahí también andan los videojuegos. No es casualidad que uno de mis primeros proyectos web fuera para un estudio musical: cuando algo me gusta, termino queriendo construirle algo alrededor.
+
+---
+
+### Dónde encontrarme
+
+📧 jmurillo820@uan.edu.co
+💼 [LinkedIn](https://www.linkedin.com/in/joan-murillo-4abb1029a)
