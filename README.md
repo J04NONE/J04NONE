@@ -54,7 +54,7 @@ Vengo del lado de redes y datos, y ahora estudio Ingeniería de Software en Bogo
 
 **[Alerta Temprana 360](https://github.com/J04NONE/alerta-temprana-360)** — Sistema de soporte a decisiones para detectar a tiempo señales de riesgo estudiantil. Backend en Django sobre PostgreSQL.
 
-**[Joyería El Dorado](https://github.com/J04NONE/joyeria-el-dorado-frontend)** — Frontend del sistema de ventas e inventario de una joyería (HTML, CSS y JavaScript).
+**[Joyería El Dorado](https://github.com/J04NONE/joyeria-el-dorado)** — Sistema de ventas e inventario de una joyería.
 
 **[Proyecto Cibercafé en C++](https://github.com/J04NONE/proyecto-programacion-cpp)** — Gestión de un cibercafé. Aquí es donde aprendí a pensar en estructuras de control y lógica desde cero.
 
